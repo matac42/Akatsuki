@@ -5,7 +5,7 @@
 
 # Target Infrastructure
 
-![cluster](https://user-images.githubusercontent.com/40331709/197318854-8296eb44-b2f9-46a1-993e-7f3d88671447.png)
+![cluster](https://user-images.githubusercontent.com/40331709/197319771-cc31d382-7921-44aa-a260-252b3feb155b.png)
 
 # OpenSource Version<br />(without container operation functionality)
 
